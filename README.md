@@ -1,2 +1,0 @@
-# Mods
-Game modification files.
